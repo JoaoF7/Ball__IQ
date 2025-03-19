@@ -1,0 +1,60 @@
+body {
+  background-color: #0B162A; /* Dark blue background */
+  color: white; /* Default text color */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: white; /* Titles in white by default */
+}
+
+.subheader {
+  color: white; /* Subheaders in white */
+}
+
+.section-header {
+  font-size: 24px;
+  font-weight: bold;
+  color: #2874A6; /* Blue color for section titles */
+}
+
+div.stMarkdown {
+  color: white; /* Ensure markdown text is white */
+}
+
+button {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #A93226;
+}
+
+input, textarea {
+  background-color: #0B162A; /* Dark input background */
+  color: white; /* White text for inputs */
+  border: 1px solid white; /* White border for inputs */
+}
+
+.sidebar-content {
+  background-color: #0B162A; /* Match sidebar background */
+  color: white; /* Sidebar text in white */
+}
+
+footer {
+  background-color: #0B162A;
+  color: white;
+}
+
+.stButton>button {
+  background-color: #0B162A !important;
+  color: white !important;
+  border: 1px solid white !important;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}

@@ -1,0 +1,529 @@
+User: Tell me Salah stats
+Bot: Sure! Here are the stats for Mohamed Salah:
+
+- Goals: 17
+- Assists: 13
+- Yellow Cards: 1
+- Red Cards: 0
+- Penalties Won: 0
+- Penalties Missed: 0
+- Shots: 8
+- Key Passes: 0
+- Dribbles: 18
+- Fouls: 0
+- Expected Goals (xG): 1.1
+
+Overall, Salah is having a fantastic season! With 17 goals and 13 assists, he's clearly a key player for his team. His ability to create chances and score is well above average compared to most players in the league. Keep an eye on him; he’s definitely one to watch!
+User: & C:/Users/joaof/.conda/envs/capstone_project/python.exe c:/Users/joaof/Desktop/Capstone_project/Project/Ball-IQ/Ball_IQ/chat_bot_tester.py
+Bot: view_players_stats
+User: & C:/Users/joaof/.conda/envs/capstone_project/python.exe c:/Users/joaof/Desktop/Capstone_project/Project/Ball-IQ/Ball_IQ/chat_bot_tester.py
+Bot: view_players_stats
+User: Tell me salah stats
+Bot: Sure! Here are the stats for Mohamed Salah:
+
+- Goals: 17
+- Assists: 13
+- Yellow Cards: 1
+- Red Cards: 0
+- Penalties Won: 0
+- Penalties Missed: 0
+- Shots on Target: 8
+- Total Shots: 0
+- Key Passes: 18
+- Minutes Played: 0
+- Average Points: 1.1
+
+Overall, Salah is having an impressive season! With 17 goals and 13 assists, he's clearly a key player for his team. His ability to find the back of the net and create opportunities for others makes him a standout performer. Compared to the average player, his stats are significantly above average, especially in terms of goals and assists. Keep an eye on him; he's definitely a game-changer!
+User: Tell me salah stats
+Bot: Sure! Here are the stats for Mohamed Salah:
+
+- Goals: 17
+- Assists: 13
+- Yellow Cards: 1
+- Red Cards: 0
+- Penalties Defended: 0
+- Own Goals: 0
+- Price Evolution: 0.7
+- Form Rank: 1
+
+Overall, Salah has been a phenomenal player this season, contributing significantly to his team's success with a high number of goals and assists. His form rank of 1 indicates that he's among the top performers in the league right now. Keep an eye on him; he's definitely a player to have in your fantasy team!
+User: Recommend me 15 fowards
+Bot: recommend_players
+User: Recommend me 15 fowards
+Bot: Hey! I got you covered with some forward recommendations. Here are the top picks based on expected points for the next game, and none of them are in your team:
+
+1. **Erling Haaland**
+   - **Price:** 4.5
+   - **Team:** Manchester City
+   - **Position:** Forward
+   - **Expected Points Next Game:** 14.8
+
+2. **Cody Gakpo**
+   - **Price:** 4.5
+   - **Team:** Liverpool
+   - **Position:** Forward
+   - **Expected Points Next Game:** 7.3
+
+3. **Ollie Watkins**
+   - **Price:** 4.5
+   - **Team:** Aston Villa
+   - **Position:** Forward
+   - **Expected Points Next Game:** 8.8
+
+4. **Alexander Isak**
+   - **Price:** 4.5
+   - **Team:** Newcastle United
+   - **Position:** Forward
+   - **Expected Points Next Game:** 9.2
+
+5. **Niclas Füllkrug**
+   - **Price:** 4.5
+   - **Team:** West Ham
+   - **Position:** Forward
+   - **Expected Points Next Game:** 6.7
+
+6. **Dominic Calvert-Lewin**
+   - **Price:** 4.5
+   - **Team:** Everton
+   - **Position:** Forward
+   - **Expected Points Next Game:** 5.4
+
+7. **Raúl Jiménez**
+   - **Price:** 4.5
+   - **Team:** Fulham
+   - **Position:** Forward
+   - **Expected Points Next Game:** 5.5
+
+8. **Jean-Philippe Mateta**
+   - **Price:** 4.5
+   - **Team:** Crystal Palace
+   - **Position:** Forward
+   - **Expected Points Next Game:** 7.2
+
+9. **Richarlison de Andrade**
+   - **Price:** 4.5
+   - **Team:** Tottenham
+   - **Position:** Forward
+   - **Expected Points Next Game:** 6.8
+
+10. **Callum Wilson**
+    - **Price:** 4.5
+    - **Team:** Newcastle United
+    - **Position:** Forward
+    - **Expected Points Next Game:** 6.9
+
+11. **Hwang Hee-chan**
+    - **Price:** 4.5
+    - **Team:** Wolves
+    - **Position:** Forward
+    - **Expected Points Next Game:** 6.1
+
+12. **Taiwo Awoniyi**
+    - **Price:** 4.5
+    - **Team:** Nottingham Forest
+    - **Position:** Forward
+    - **Expected Points Next Game:** 5.5
+
+13. **Jadon Sancho**
+    - **Price:** 4.5
+    - **Team:** Chelsea
+    - **Position:** Forward
+    - **Expected Points Next Game:** 6.2
+
+14. **Danny Ings**
+    - **Price:** 4.5
+    - **Team:** West Ham
+    - **Position:** Forward
+    - **Expected Points Next Game:** 5.0
+
+15. **Paul Onuachu**
+    - **Price:** 4.5
+    - **Team:** Southampton
+    - **Position:** Forward
+    - **Expected Points Next Game:** 4.9
+
+Let me know if you need more info or if you want to narrow it down!
+User: Recomend me 10 midfielders
+Bot: recommend_players
+User: Recomend me 10 midfielders
+Bot: Sure thing! Here are 10 midfielder recommendations based on expected points for the next game, and none of them are in your team:
+
+1. **Bryan Mbeumo**
+   - **Price:** 6.5
+   - **Team:** Brentford
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 7.7
+
+2. **Phil Foden**
+   - **Price:** 4.8
+   - **Team:** Manchester City
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 9.2
+
+3. **Mohammed Kudus**
+   - **Price:** 4.8
+   - **Team:** West Ham
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 6.2
+
+4. **Marcus Rashford**
+   - **Price:** 4.5
+   - **Team:** Manchester United
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 6.6
+
+5. **Eberechi Eze**
+   - **Price:** 4.9
+   - **Team:** Crystal Palace
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 6.6
+
+6. **James Maddison**
+   - **Price:** 5.2
+   - **Team:** Tottenham
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 7.7
+
+7. **Luis Díaz**
+   - **Price:** 5.8
+   - **Team:** Liverpool
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 7.6
+
+8. **Bruno Guimarães**
+   - **Price:** 4.9
+   - **Team:** Newcastle United
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 6.1
+
+9. **Youri Tielemans**
+   - **Price:** 4.5
+   - **Team:** Aston Villa
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 5.5
+
+10. **Mason Mount**
+    - **Price:** 4.8
+    - **Team:** Manchester United
+    - **Position:** Midfielder
+    - **Expected Points Next Game:** 6.3
+
+Let me know if you need more info or if you want to adjust the recommendations!
+User: Recomend me a player to play with saka
+Bot: recommend_players
+User: Recomend me a player to play with saka
+Bot: Got it! Since you want a player to pair with Saka, I'll focus on midfielders since Saka plays in that position. Here are some top recommendations based on expected points for the next game, and none of them are in your team:
+
+1. **Phil Foden**
+   - **Price:** 4.8
+   - **Team:** Manchester City
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 9.2
+
+2. **James Maddison**
+   - **Price:** 5.2
+   - **Team:** Tottenham
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 7.7
+
+3. **Luis Díaz**
+   - **Price:** 5.8
+   - **Team:** Liverpool
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 7.6
+
+4. **Mohammed Kudus**
+   - **Price:** 4.8
+   - **Team:** West Ham
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 6.2
+
+5. **Marcus Rashford**
+   - **Price:** 4.5
+   - **Team:** Manchester United
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 6.6
+
+Let me know if you need more info or if you want to narrow it down!
+User: Recomend me 3 arsenal midfielders
+Bot: recommend_players
+User: Recomend me 3 arsenal midfielders
+Bot: Sure! Here are 3 Arsenal midfielders that you can consider, based on their expected points for the next game. None of them are in your team:
+
+1. **Emile Smith Rowe**
+   - **Price:** 0.8
+   - **Team:** Fulham
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 5.3
+
+2. **Fábio Ferreira Vieira**
+   - **Price:** 0.0
+   - **Team:** Arsenal
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 5.4
+
+3. **Thomas Partey**
+   - **Price:** 3.8
+   - **Team:** Arsenal
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 5.0
+
+Let me know if you need more info or if you want to adjust the recommendations!
+User: Recomend me 7 arsenal midfielders
+Bot: recommend_players
+User: Recomend me 7 arsenal midfielders
+Bot: Sure! Here are 7 Arsenal midfielders that you can consider, based on their expected points for the next game. None of them are in your team:
+
+1. **Fábio Ferreira Vieira**
+   - **Price:** 0.0
+   - **Team:** Arsenal
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 5.4
+
+2. **Thomas Partey**
+   - **Price:** 3.8
+   - **Team:** Arsenal
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 5.0
+
+3. **Jorge Luiz Frello Filho**
+   - **Price:** 1.3
+   - **Team:** Arsenal
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 4.7
+
+4. **Emile Smith Rowe**
+   - **Price:** 0.8
+   - **Team:** Fulham
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 5.3
+
+5. **Martin Ødegaard**
+   - **Price:** 3.0
+   - **Team:** Arsenal
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 8.4
+
+6. **Declan Rice**
+   - **Price:** 5.0
+   - **Team:** Arsenal
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 6.2
+
+7. **Bukayo Saka**
+   - **Price:** 0.0
+   - **Team:** Arsenal
+   - **Position:** Midfielder
+   - **Expected Points Next Game:** 10.3
+
+Let me know if you need more info or if you want to adjust the recommendations!
+User: Recommend me 8 man city fowards
+Bot: recommend_players
+User: Recommend me 8 man city fowards
+Bot: Hey! I see you're looking for some Manchester City forwards. Unfortunately, it looks like there are no Man City forwards available that fit your request since you already have some players in your team. 
+
+However, if you're open to considering other teams or positions, let me know! I'm here to help you find the best players for your fantasy football team!
+User: Recommend me 8 manchester city  fowards
+Bot: recommend_players
+User: Recommend me 8 manchester city  fowards
+Bot: Hey there! I see you're looking for some Manchester City forwards. Unfortunately, it seems like there are no available forwards from Manchester City that fit your request since you already have some players in your team.
+
+If you're open to exploring forwards from other teams or different positions, just let me know! I'm here to help you find the best players for your fantasy football team!
+User: Recommend me 8 arsenal fowards
+Bot: Hey! I see you're looking for some Arsenal forwards. Here are a couple of options that might fit your needs:
+
+1. **Gabriel Fernando de Jesus**
+   - **Price:** 5.8
+   - **Team:** Arsenal
+   - **Position:** Forward
+   - **Expected Points Next Game:** 0.68
+
+2. **Leandro Trossard**
+   - **Price:** 2.7
+   - **Team:** Arsenal
+   - **Position:** Forward
+   - **Expected Points Next Game:** 0.68
+
+Unfortunately, it looks like you already have some Arsenal players in your team, so I can't recommend more. If you're open to considering forwards from other teams or different positions, just let me know! I'm here to help you find the best players for your fantasy football team!
+User: Recommend five arsenal midfielders
+Bot: recommend_players
+User: Recommend five arsenal midfielders
+Bot: Hey! I see you're looking for some Arsenal midfielders. Here are the top five recommendations based on expected points for the next game:
+
+1. **Mohamed Salah**  
+   - **Price:** 14.8  
+   - **Team:** Liverpool  
+   - **Position:** Midfielder  
+   - **Expected Points Next Game:** 1.36  
+
+2. **Martin Ødegaard**  
+   - **Price:** 3.0  
+   - **Team:** Arsenal  
+   - **Position:** Midfielder  
+   - **Expected Points Next Game:** 0.84  
+
+3. **Leandro Trossard**  
+   - **Price:** 2.7  
+   - **Team:** Arsenal  
+   - **Position:** Midfielder  
+   - **Expected Points Next Game:** 0.68  
+
+4. **Gabriel Martinelli Silva**  
+   - **Price:** 4.7  
+   - **Team:** Arsenal  
+   - **Position:** Midfielder  
+   - **Expected Points Next Game:** 0.68  
+
+5. **Fábio Ferreira Vieira**  
+   - **Price:** 0.0  
+   - **Team:** Arsenal  
+   - **Position:** Midfielder  
+   - **Expected Points Next Game:** 0.54  
+
+However, I noticed that you already have **Fábio Ferreira Vieira**, **Martin Ødegaard**, **Leandro Trossard**, and **Gabriel Martinelli Silva** in your team. So, I can only recommend **Mohamed Salah** for now. 
+
+Let me know if you need more help!
+User: Recommend 5 liverpool fowards
+Bot: Hey! I got you covered with some Liverpool forwards. Here are the top picks based on expected points for the next game:
+
+1. **Cody Gakpo**
+   - **Price:** 6.8
+   - **Team:** Liverpool
+   - **Position:** Forward
+   - **Expected Points Next Game:** 0.73
+
+2. **Darwin Núñez Ribeiro**
+   - **Price:** 2.4
+   - **Team:** Liverpool
+   - **Position:** Forward
+   - **Expected Points Next Game:** 0.7
+
+3. **Luis Díaz**
+   - **Price:** 5.8
+   - **Team:** Liverpool
+   - **Position:** Forward
+   - **Expected Points Next Game:** 0.76
+
+Unfortunately, there are only three Liverpool forwards available that fit your request. Let me know if you want to explore other teams or positions!
+User: REcommend me 3 fowards from liverpool
+Bot: Hey! I got you covered with some Liverpool forwards. Here are the top three I found that are not in your team:
+
+1. **Darwin Núñez Ribeiro**
+   - **Price:** 2.4
+   - **Team:** Liverpool
+   - **Position:** Forward
+   - **Expected Points Next Game:** 0.7
+
+2. **Cody Gakpo**
+   - **Price:** 6.8
+   - **Team:** Liverpool
+   - **Position:** Forward
+   - **Expected Points Next Game:** 0.73
+
+3. **Luis Díaz**
+   - **Price:** 5.8
+   - **Team:** Liverpool
+   - **Position:** Forward
+   - **Expected Points Next Game:** 0.76
+
+Let me know if you need anything else!
+User: REcommend me 3 fowards from liverpool
+Bot: Hey! I got you covered with some Liverpool forwards. Here are the top three I found:
+
+1. **Cody Gakpo**
+   - **Price:** 7.3
+   - **Team:** Liverpool
+   - **Position:** Forward
+   - **Expected Points Next Game:** 7.3
+
+2. **Darwin Núñez Ribeiro**
+   - **Price:** 7.0
+   - **Team:** Liverpool
+   - **Position:** Forward
+   - **Expected Points Next Game:** 7.0
+
+3. **Luis Díaz**
+   - **Price:** 7.6
+   - **Team:** Liverpool
+   - **Position:** Forward
+   - **Expected Points Next Game:** 7.6
+
+Let me know if you need anything else!
+User: expected_points_next_game
+User: Everything working?
+Bot: [chitchat]
+User: & C:/Users/joaof/.conda/envs/capstone_project/python.exe c:/Users/joaof/Desktop/Capstone_project/Project/Ball-IQ/Ball_IQ/chatbot/chains/no_intention.py
+Bot: [chitchat]
+User: Everything working?
+Bot: 'chitchat'
+User: How are you doing?
+Bot: 'chitchat'
+User: Put Salah in my starting 11
+Bot: It looks like you want to add Salah to your starting 11! However, I didn't catch the names of the other players in your team. Could you please provide the full list of your starting players? That way, I can help you with the changes!
+User: Optimize my lineup
+Bot: Alright, let's optimize your lineup! Based on the expected points for your players, I'll set you up in a 4-4-2 formation since that's the default tactic. Here’s the best lineup I recommend:
+
+Goalkeeper:
+- David Raya Martin (Arsenal) - 4.7 expected points
+
+Defenders:
+- William Saliba (Arsenal) - 7.3 expected points
+- Gabriel dos Santos Magalhães (Arsenal) - 4.0 expected points
+- Jakub Kiwior (Arsenal) - 1.8 expected points
+- Oleksandr Zinchenko (Arsenal) - 1.5 expected points
+
+Midfielders:
+- Declan Rice (Arsenal) - 5.0 expected points
+- Gabriel Martinelli Silva (Arsenal) - 4.7 expected points
+- Martin Ødegaard (Arsenal) - 3.0 expected points
+- Thomas Partey (Arsenal) - 3.8 expected points
+
+Forwards:
+- Gabriel Fernando de Jesus (Arsenal) - 5.8 expected points
+- Kai Havertz (Arsenal) - 3.2 expected points
+
+This lineup gives you a total of 37.0 expected points for the next game. Let me know if you want to tweak anything or if you have a specific tactic in mind!
+User: Put Saka on my starting 11
+Bot: 'putting_players_in_starting11'
+User: Buy Salah for my team
+Bot: 'transfer_players'
+User: Buy Saka for my team
+Bot: 'transfer_players'
+User: Buy Bruno Fernandes
+Bot: 'transfer_players'
+User: Tell me what is a goal
+Bot: A goal is awarded to a player if they shoot on target and the ball ends up in the opposition's goal, regardless of any deflections. If the shot is not on target and still ends in the goal, it is considered an own goal by the opposing player who deflected it.
+User: Tell me what is a goal and an assist and yellow card
+Bot: A goal is awarded to a player if they shoot on target and the ball ends up in the opposition's goal, regardless of deflections. An assist is given to the player who last touches the ball before a teammate scores, unless the final touch is significantly altered by an opposing player or results from an unforced defensive error. A yellow card leads to a points deduction in fantasy football, and if a player receives two yellow cards, they are penalized as if they received a red card.
+User: Tell me something about you
+Bot: 'about_company_Ball_IQ'
+User: Everything alright
+Bot: [chitchat]
+User: Put Saka in my dtarting 11
+Bot: [putting_players_in_starting11]
+User: Everything okay?
+Bot: chitchat
+User: Everything okay?
+Bot: Hey there! Everything's good on my end, thanks for asking! How about you? If you have any questions about EPL fantasy football or need some tips, feel free to ask!
+User: Put Salah in my starting 11
+Bot: It looks like you want to add Salah to your starting 11, but I didn't catch the names of the other players in your team. Could you please share your current lineup with me? That way, I can help you make the change!
+User: I want to know who are the best players I can buy for my team
+Bot: Hey! I got you covered. Based on your current team, I’ll suggest a solid lineup using the 4-4-2 formation, which will give you a good balance. Here are the best players you can consider:
+
+**Defenders:**
+1. William Saliba (Arsenal) - Expected Points: 7.3
+2. Gabriel dos Santos Magalhães (Arsenal) - Expected Points: 4.0
+3. Jakub Kiwior (Arsenal) - Expected Points: 1.8
+4. Oleksandr Zinchenko (Arsenal) - Expected Points: 1.5
+
+**Midfielders:**
+1. Declan Rice (Arsenal) - Expected Points: 5.0
+2. Gabriel Martinelli Silva (Arsenal) - Expected Points: 4.7
+3. Martin Ødegaard (Arsenal) - Expected Points: 3.0
+4. Bukayo Saka (Arsenal) - Expected Points: 0.0 (but he has potential!)
+
+**Forwards:**
+1. Gabriel Fernando de Jesus (Arsenal) - Expected Points: 5.8
+2. Kai Havertz (Arsenal) - Expected Points: 3.2
+
+This lineup gives you a total of 4 defenders, 4 midfielders, and 2 forwards, which is perfect for the 4-4-2 formation. The expected points from these players should help you maximize your score in the next game. Let me know if you want to tweak anything or need more help!

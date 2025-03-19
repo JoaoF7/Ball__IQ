@@ -1,0 +1,85 @@
+/* CSS Snippet from W3schools: https://www.w3schools.com/howto/howto_css_contact_form.asp */
+/* Style inputs with type="text", select elements and textareas */
+input[type=message], input[type=email], input[type=text], textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical; /* Allow the user to vertically resize the textarea (not horizontally) */
+  background-color: white; /* White background for inputs */
+  color: black ; /* Black text */
+}
+
+/* Style the submit button with a specific background color etc */
+button[type=submit] {
+  background-color: green; /* Default background color */
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%; /* Make the button full width */
+}
+
+/* When moving the mouse over the submit button, change color to green */
+div.stButton > button[type=submit]:hover {
+  background-color: green  !important; /* Green on hover */
+}
+
+/* Style for columns (background white and text black) */
+.css-1d391kg {  /* This is the class for Streamlit's columns layout */
+    background-color: white  !important; /* White background for columns */
+    color: black  !important; /* Black text in columns */
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+/* Adjust padding inside columns to make content more compact */
+.css-1aehcvp, .css-1yqgqvd {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    background-color: white !important; /* White background inside the columns */
+    color: black !important; /* Black text inside the columns */
+}
+
+/* Contact Us Section Styles */
+.contact-form input[type="text"], .contact-form input[type="email"], .contact-form textarea {
+  background-color: white !important; /* White background */
+  color: black !important; /* Black text */
+  border: 1px solid gray; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+}
+
+.contact-form button[type="submit"] {
+  background-color: green; /* Default green color */
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.contact-form button[type="submit"]:hover {
+  background-color: green !important; /* Green on hover */
+}
+
+/* Hide Streamlit Branding */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+
+/* Reduce the gap between columns */
+.css-1d391kg {  /* This is the class for Streamlit's columns layout */
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+/* Optional: Adjust padding inside columns to make content more compact */
+.css-1aehcvp, .css-1yqgqvd {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}

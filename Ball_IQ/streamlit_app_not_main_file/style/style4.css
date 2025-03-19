@@ -1,0 +1,113 @@
+/* General Styling */
+body {
+  background-color: #121212; /* Dark background */
+  color: #e0e0e0; /* Light text color for readability */
+  font-family: 'Arial', sans-serif;
+}
+
+/* Style inputs and textareas */
+input[type=text], input[type=email], textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */
+  border: 1px solid #555; /* Subtle border */
+  border-radius: 6px; /* Rounded borders */
+  background-color: #1e1e1e; /* Dark input background */
+  color: #e0e0e0; /* Light text */
+  margin-top: 10px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  box-sizing: border-box;
+  resize: vertical; /* Allow vertical resize for textareas */
+}
+
+input[type=text]:focus, input[type=email]:focus, textarea:focus {
+  outline: none; /* Remove focus outline */
+  border: 1px solid #04AA6D; /* Highlighted border */
+  background-color: #252525; /* Slightly lighter background */
+}
+
+/* Style the submit button */
+button[type=submit] {
+  background: linear-gradient(90deg, #04AA6D, #028a5e);
+  color: #fff;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+button[type=submit]:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+  background: linear-gradient(90deg, #028a5e, #02694d);
+}
+
+/* Card-like styling for form sections */
+form {
+  background-color: #1a1a1a;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Headers styling */
+h1, h2, h3, h4, h5, h6 {
+  color: #04AA6D;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Link styling */
+a {
+  color: #04AA6D;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: #02d485;
+}
+
+/* Buttons in other parts of the app */
+button {
+  background-color: #333;
+  color: #e0e0e0;
+  border: 1px solid #04AA6D;
+  border-radius: 5px;
+  padding: 10px 15px;
+  font-size: 14px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+button:hover {
+  background-color: #04AA6D;
+  color: #fff;
+}
+
+/* Navbar (if applicable) */
+.navbar {
+  background-color: #1e1e1e;
+  padding: 10px 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.navbar a {
+  color: #e0e0e0;
+  margin-right: 15px;
+  font-size: 16px;
+  text-transform: uppercase;
+  transition: color 0.2s;
+}
+
+.navbar a:hover {
+  color: #04AA6D;
+}
+
+/* Hide Streamlit Branding */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}

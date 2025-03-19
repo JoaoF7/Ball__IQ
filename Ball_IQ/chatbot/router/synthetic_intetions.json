@@ -1,0 +1,2417 @@
+[
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What are the upcoming fixtures for Kane?",
+        "Id": 1
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Can you tell me who Salah plays next?",
+        "Id": 2
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "When is Son's next match?",
+        "Id": 3
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What fixtures does Bruno have in week 5?",
+        "Id": 4
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Who does Rashford face in the next game?",
+        "Id": 5
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Check upcoming matches for Haaland this week.",
+        "Id": 6
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What are the fixtures for Mount in week 3?",
+        "Id": 7
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Who is Grealish playing against next?",
+        "Id": 8
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Can you give me the next game for Vardy?",
+        "Id": 9
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What are the upcoming fixtures for my team?",
+        "Id": 10
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "When does Almiron play next?",
+        "Id": 11
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Tell me the next match for Foden.",
+        "Id": 12
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What fixtures does Toney have coming up?",
+        "Id": 13
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Who does Maddison play against in week 7?",
+        "Id": 14
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Check the upcoming fixtures for my players.",
+        "Id": 15
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What is the next game for Dier?",
+        "Id": 16
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Can you tell me the fixtures for Saka?",
+        "Id": 17
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Who is playing next week for my team?",
+        "Id": 18
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What are the upcoming matches for Jota?",
+        "Id": 19
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "When does Mitrovic play next?",
+        "Id": 20
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What fixtures does Sterling have in week 10?",
+        "Id": 21
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Who does Cucurella face in the next match?",
+        "Id": 22
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Check the next game for Nketiah.",
+        "Id": 23
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What are the fixtures for my players this week?",
+        "Id": 24
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "When is the next match for Kepa?",
+        "Id": 25
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Who does Bowen play against next?",
+        "Id": 26
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Can you tell me the upcoming fixtures for my squad?",
+        "Id": 27
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What is the next game for James?",
+        "Id": 28
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Who is playing next for my fantasy team?",
+        "Id": 29
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What fixtures does Watkins have coming up?",
+        "Id": 30
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "When does Lloris play next?",
+        "Id": 31
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What are the upcoming matches for my players?",
+        "Id": 32
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Who does Dias face in the next game?",
+        "Id": 33
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Check the next match for Pulisic.",
+        "Id": 34
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What are the fixtures for my team in week 12?",
+        "Id": 35
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "When is the next game for Ederson?",
+        "Id": 36
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Who does Rashica play against next?",
+        "Id": 37
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Can you tell me the upcoming fixtures for my players?",
+        "Id": 38
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What is the next match for Kante?",
+        "Id": 39
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Who is playing next for my fantasy squad?",
+        "Id": 40
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What fixtures does Jesus have in week 15?",
+        "Id": 41
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "When does Damsgaard play next?",
+        "Id": 42
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What are the upcoming matches for my team this week?",
+        "Id": 43
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Who does Romero face in the next game?",
+        "Id": 44
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Check the next game for Sessegnon.",
+        "Id": 45
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What are the fixtures for my players in week 20?",
+        "Id": 46
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "When is the next match for Alisson?",
+        "Id": 47
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Who does Raphinha play against next?",
+        "Id": 48
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Can you tell me the upcoming fixtures for my team?",
+        "Id": 49
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What is the next game for Kova\u010di\u0107?",
+        "Id": 50
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Who is playing next for my fantasy players?",
+        "Id": 51
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What fixtures does Antonio have coming up?",
+        "Id": 52
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "When does Mings play next?",
+        "Id": 53
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What are the upcoming matches for my squad?",
+        "Id": 54
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Who does Ake face in the next game?",
+        "Id": 55
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Check the next match for Dier.",
+        "Id": 56
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What\u2019s the best 4-3-3 lineup I can use?",
+        "Id": 57
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "Help me optimize my 4/3/3 formation.",
+        "Id": 58
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "I need to set up a 3-5-2 lineup.",
+        "Id": 59
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "Can you suggest a strong 4-4-2 tactic?",
+        "Id": 60
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What players should I choose for a 4-3-3?",
+        "Id": 61
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "I want to optimize my lineup with 5 defenders.",
+        "Id": 62
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "How can I improve my 4-2-3-1 setup?",
+        "Id": 63
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What\u2019s the ideal formation for my team?",
+        "Id": 64
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "I\u2019m thinking of a 3-4-3, any suggestions?",
+        "Id": 65
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "Can you help me with a 4-5-1 strategy?",
+        "Id": 66
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What\u2019s the best way to arrange my midfielders?",
+        "Id": 67
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "I need to optimize my lineup with 2 forwards.",
+        "Id": 68
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What players fit well in a 4-3-3 formation?",
+        "Id": 69
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "Can you recommend a solid 4-2-2-2 setup?",
+        "Id": 70
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "How do I balance my 3-5-2 lineup?",
+        "Id": 71
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What\u2019s the best tactic for my current players?",
+        "Id": 72
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "I want to use a 4-1-4-1, any tips?",
+        "Id": 73
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "How many defenders should I have in my lineup?",
+        "Id": 74
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What\u2019s the best way to set up my forwards?",
+        "Id": 75
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "Can you help me with a 4-3-1-2 formation?",
+        "Id": 76
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What\u2019s the optimal number of midfielders for my team?",
+        "Id": 77
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "I\u2019m using a 4-4-1-1, how can I optimize it?",
+        "Id": 78
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What players should I consider for a 3-4-3?",
+        "Id": 79
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "Can you suggest a good 4-3-3 lineup?",
+        "Id": 80
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "How do I optimize my 4-2-3-1 formation?",
+        "Id": 81
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What\u2019s the best way to arrange my defenders?",
+        "Id": 82
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "I need help with a 3-5-2 lineup.",
+        "Id": 83
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What\u2019s the ideal number of forwards for my tactic?",
+        "Id": 84
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "Can you help me optimize my 4-4-2 setup?",
+        "Id": 85
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What players should I include in my 4-3-3?",
+        "Id": 86
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "I want to use a 4-2-2-2, any recommendations?",
+        "Id": 87
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "How can I improve my 3-4-3 formation?",
+        "Id": 88
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What\u2019s the best way to set up my midfielders?",
+        "Id": 89
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "I\u2019m thinking of a 4-3-3, what players should I choose?",
+        "Id": 90
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "Can you help me with a 4-1-4-1 strategy?",
+        "Id": 91
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What\u2019s the optimal formation for my current players?",
+        "Id": 92
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "How many midfielders should I have in my lineup?",
+        "Id": 93
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What\u2019s the best tactic for my team?",
+        "Id": 94
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "Can you suggest a strong 4-2-3-1 lineup?",
+        "Id": 95
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "How do I balance my 3-5-2 setup?",
+        "Id": 96
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What\u2019s the best way to arrange my forwards?",
+        "Id": 97
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "I need to optimize my lineup with 3 defenders.",
+        "Id": 98
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What players fit well in a 4-4-2 formation?",
+        "Id": 99
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "Can you recommend a solid 4-3-1-2 setup?",
+        "Id": 100
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "How can I improve my 4-2-2-2 lineup?",
+        "Id": 101
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What\u2019s the best way to set up my defenders?",
+        "Id": 102
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "I want to use a 4-3-3, any tips?",
+        "Id": 103
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What\u2019s the ideal number of forwards for my tactic?",
+        "Id": 104
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "Can you help me optimize my 4-1-4-1 formation?",
+        "Id": 105
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What players should I consider for a 3-4-3?",
+        "Id": 106
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "Can you suggest a good 4-2-3-1 lineup?",
+        "Id": 107
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "How do I optimize my 4-4-2 setup?",
+        "Id": 108
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "What\u2019s the best way to arrange my midfielders?",
+        "Id": 109
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I want to put Kane in my starting eleven.",
+        "Id": 110
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Please remove Salah from my starting lineup.",
+        "Id": 111
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Can I drop Mount from my starting 11?",
+        "Id": 112
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I need to bench Rashford this week.",
+        "Id": 113
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Add Haaland to my starting lineup.",
+        "Id": 114
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Take out Bruno from my starting eleven.",
+        "Id": 115
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I want to include Son in my starting 11.",
+        "Id": 116
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Please drop Alisson from my starting lineup.",
+        "Id": 117
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Can you put Foden in my starting eleven?",
+        "Id": 118
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Remove Jota from my starting lineup.",
+        "Id": 119
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I want to bench Vardy for this match.",
+        "Id": 120
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Add Grealish to my starting eleven.",
+        "Id": 121
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Please take out Dier from my starting lineup.",
+        "Id": 122
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I need to include Sterling in my starting 11.",
+        "Id": 123
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Drop Jimenez from my starting eleven.",
+        "Id": 124
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Can you put Saka in my starting lineup?",
+        "Id": 125
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I want to remove Ederson from my starting eleven.",
+        "Id": 126
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Add Maddison to my starting lineup.",
+        "Id": 127
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Please bench Pulisic for this week.",
+        "Id": 128
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I want to include Toney in my starting eleven.",
+        "Id": 129
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Take out Cancelo from my starting lineup.",
+        "Id": 130
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Can you drop Kante from my starting eleven?",
+        "Id": 131
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I need to put Mount in my starting lineup.",
+        "Id": 132
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Remove Son from my starting eleven.",
+        "Id": 133
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Add Nketiah to my starting lineup.",
+        "Id": 134
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Please take out Maguire from my starting eleven.",
+        "Id": 135
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I want to bench Daka this week.",
+        "Id": 136
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Put Bowen in my starting eleven.",
+        "Id": 137
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Drop Richarlison from my starting lineup.",
+        "Id": 138
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Can you include Raphinha in my starting eleven?",
+        "Id": 139
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I want to remove Lloris from my starting lineup.",
+        "Id": 140
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Add Jesus to my starting eleven.",
+        "Id": 141
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Please bench Chilwell for this match.",
+        "Id": 142
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I need to drop Kepa from my starting lineup.",
+        "Id": 143
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Put Neto in my starting eleven.",
+        "Id": 144
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Take out Cresswell from my starting lineup.",
+        "Id": 145
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Can you add Watkins to my starting eleven?",
+        "Id": 146
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I want to remove Fofana from my starting lineup.",
+        "Id": 147
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Add Pereira to my starting eleven.",
+        "Id": 148
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Please drop Sessegnon from my starting lineup.",
+        "Id": 149
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I want to bench Zaha this week.",
+        "Id": 150
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Put Isak in my starting eleven.",
+        "Id": 151
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Remove Mings from my starting lineup.",
+        "Id": 152
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Can you include Dier in my starting eleven?",
+        "Id": 153
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I want to take out Kante from my starting lineup.",
+        "Id": 154
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Add Trossard to my starting eleven.",
+        "Id": 155
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Please bench Ake for this match.",
+        "Id": 156
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I need to drop Laca from my starting lineup.",
+        "Id": 157
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Put Cucurella in my starting eleven.",
+        "Id": 158
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Take out Dier from my starting lineup.",
+        "Id": 159
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Can you add Gallagher to my starting eleven?",
+        "Id": 160
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I want to remove Ramsdale from my starting lineup.",
+        "Id": 161
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Add Kulu to my starting eleven.",
+        "Id": 162
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Please drop Benrahma from my starting lineup.",
+        "Id": 163
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "I want to bench Antonio this week.",
+        "Id": 164
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Put Neto in my starting eleven.",
+        "Id": 165
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Remove Shaw from my starting lineup.",
+        "Id": 166
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What are the points awarded for a clean sheet?",
+        "Id": 167
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How many points do I get for an assist?",
+        "Id": 168
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "Can you explain how goals are calculated in fantasy?",
+        "Id": 169
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What stats should I focus on for my players?",
+        "Id": 170
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How is a penalty save scored in fantasy points?",
+        "Id": 171
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What does a yellow card do to player points?",
+        "Id": 172
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How are bonus points awarded in the Premier League?",
+        "Id": 173
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What is the fantasy point value for a goal?",
+        "Id": 174
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How do I calculate total points for my team?",
+        "Id": 175
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What stats are most important for defenders?",
+        "Id": 176
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How do injuries affect player stats in fantasy?",
+        "Id": 177
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What is the impact of a red card on points?",
+        "Id": 178
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How are player stats updated during the season?",
+        "Id": 179
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What does 'xG' mean in football stats?",
+        "Id": 180
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How do I find out a player's average points?",
+        "Id": 181
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What is the significance of a player's form?",
+        "Id": 182
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How are player stats compared in fantasy leagues?",
+        "Id": 183
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What does 'clean sheet' mean for goalkeepers?",
+        "Id": 184
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How do substitutions affect player points?",
+        "Id": 185
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What are the key stats for midfielders?",
+        "Id": 186
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How is a player's performance rated in fantasy?",
+        "Id": 187
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What does 'shots on target' indicate for players?",
+        "Id": 188
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How do I interpret a player's heat map?",
+        "Id": 189
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What is the role of expected goals in fantasy?",
+        "Id": 190
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How do I check a player's historical stats?",
+        "Id": 191
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What are the most common stats tracked in fantasy?",
+        "Id": 192
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How do I analyze a player's performance over time?",
+        "Id": 193
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What does 'goal involvement' mean in player stats?",
+        "Id": 194
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How are assists calculated in fantasy football?",
+        "Id": 195
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What is the importance of player fitness stats?",
+        "Id": 196
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How do I find out about a player's injury history?",
+        "Id": 197
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What does 'minutes played' mean for fantasy points?",
+        "Id": 198
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How are player stats affected by match location?",
+        "Id": 199
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What is the impact of a player's position on stats?",
+        "Id": 200
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How do I evaluate a player's consistency in scoring?",
+        "Id": 201
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What does 'conversion rate' mean in football stats?",
+        "Id": 202
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How are player stats affected by team performance?",
+        "Id": 203
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What is the significance of a player's passing accuracy?",
+        "Id": 204
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How do I interpret a player's fantasy points breakdown?",
+        "Id": 205
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What does 'defensive contributions' mean for defenders?",
+        "Id": 206
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How are player stats affected by weather conditions?",
+        "Id": 207
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What is the role of 'key passes' in fantasy scoring?",
+        "Id": 208
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How do I find out about a player's disciplinary record?",
+        "Id": 209
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What does 'goalkeeper saves' contribute to fantasy points?",
+        "Id": 210
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How do I assess a player's potential based on stats?",
+        "Id": 211
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What is the relevance of 'fouls committed' in fantasy?",
+        "Id": 212
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How do I track player stats throughout the season?",
+        "Id": 213
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What does 'expected assists' mean in player analysis?",
+        "Id": 214
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How do I compare players based on their stats?",
+        "Id": 215
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What is the impact of a player's age on performance?",
+        "Id": 216
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How do I understand a player's overall contribution?",
+        "Id": 217
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What does 'goal contributions' mean in fantasy terms?",
+        "Id": 218
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How are player stats visualized in fantasy platforms?",
+        "Id": 219
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Recommend players for $50, I need a midfielder.",
+        "Id": 220
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Looking for players under \u20ac80, no Salah or Kane.",
+        "Id": 221
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Can you suggest players for $30? I need a defender.",
+        "Id": 222
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Please recommend players within $60, excluding Bruno.",
+        "Id": 223
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "I have a budget of $45, need a striker.",
+        "Id": 224
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Suggest players for \u20ac70, I don't want Son.",
+        "Id": 225
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Who can I get for $20? I need a goalkeeper.",
+        "Id": 226
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Recommend players under $90, no Rashford.",
+        "Id": 227
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Looking for a midfielder, budget is $55.",
+        "Id": 228
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Can you suggest players for \u20ac65, excluding Haaland?",
+        "Id": 229
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "I need a defender for $40, any recommendations?",
+        "Id": 230
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Please recommend players for $75, I don't want Sterling.",
+        "Id": 231
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Suggest players under \u20ac50, I need a forward.",
+        "Id": 232
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Who can I get for $25? I need a midfielder.",
+        "Id": 233
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Recommend players for $80, excluding Mount.",
+        "Id": 234
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Looking for players under \u20ac60, no Vardy.",
+        "Id": 235
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Can you suggest players for $35? I need a striker.",
+        "Id": 236
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Please recommend players for $90, excluding Grealish.",
+        "Id": 237
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "I have a budget of $50, need a defender.",
+        "Id": 238
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Suggest players for \u20ac45, I don't want Bruno.",
+        "Id": 239
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Who can I get for $15? I need a goalkeeper.",
+        "Id": 240
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Recommend players under $70, no Salah.",
+        "Id": 241
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Looking for a midfielder, budget is \u20ac55.",
+        "Id": 242
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Can you suggest players for $65, excluding Kane?",
+        "Id": 243
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "I need a striker for $30, any recommendations?",
+        "Id": 244
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Please recommend players for \u20ac80, I don't want Son.",
+        "Id": 245
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Suggest players under $40, I need a forward.",
+        "Id": 246
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Who can I get for $20? I need a midfielder.",
+        "Id": 247
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Recommend players for $75, excluding Rashford.",
+        "Id": 248
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Looking for players under \u20ac50, no Haaland.",
+        "Id": 249
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Can you suggest players for $45? I need a defender.",
+        "Id": 250
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Please recommend players for $90, excluding Mount.",
+        "Id": 251
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "I have a budget of $60, need a striker.",
+        "Id": 252
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Suggest players for \u20ac70, I don't want Sterling.",
+        "Id": 253
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Who can I get for $25? I need a midfielder.",
+        "Id": 254
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Recommend players for $50, excluding Grealish.",
+        "Id": 255
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Looking for players under \u20ac80, no Vardy.",
+        "Id": 256
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Can you suggest players for $35? I need a goalkeeper.",
+        "Id": 257
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Please recommend players for $60, excluding Bruno.",
+        "Id": 258
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "I need a defender for $40, any recommendations?",
+        "Id": 259
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Suggest players for \u20ac45, I don't want Salah.",
+        "Id": 260
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Who can I get for $15? I need a striker.",
+        "Id": 261
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Recommend players under $70, no Kane.",
+        "Id": 262
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Looking for a midfielder, budget is \u20ac55.",
+        "Id": 263
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Can you suggest players for $65, excluding Son?",
+        "Id": 264
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "I need a forward for $30, any recommendations?",
+        "Id": 265
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Please recommend players for \u20ac80, I don't want Rashford.",
+        "Id": 266
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Suggest players under $40, I need a defender.",
+        "Id": 267
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Who can I get for $20? I need a midfielder.",
+        "Id": 268
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Recommend players for $75, excluding Haaland.",
+        "Id": 269
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Looking for players under \u20ac50, no Grealish.",
+        "Id": 270
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I want to transfer out Kane and bring in Salah.",
+        "Id": 271
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Please add Haaland to my team.",
+        "Id": 272
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Transfer out Bruno and replace him with Son.",
+        "Id": 273
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I\u2019d like to add Rashford to my squad.",
+        "Id": 274
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Remove Mount and get in Foden.",
+        "Id": 275
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Can I transfer out Vardy for Nunez?",
+        "Id": 276
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I want to add Almiron to my lineup.",
+        "Id": 277
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Swap out Grealish for Saka.",
+        "Id": 278
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Please transfer out Dier and bring in Dias.",
+        "Id": 279
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Add Toney to my team.",
+        "Id": 280
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I want to replace Sterling with Maddison.",
+        "Id": 281
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Transfer out Jesus and get in Watkins.",
+        "Id": 282
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Please add Kante to my squad.",
+        "Id": 283
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I\u2019d like to swap out Cancelo for Alexander-Arnold.",
+        "Id": 284
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Remove Pulisic and bring in Zaha.",
+        "Id": 285
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Can I transfer out Mings for Coady?",
+        "Id": 286
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I want to add Bowen to my team.",
+        "Id": 287
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Swap out Jimenez for Isak.",
+        "Id": 288
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Please transfer out Raphinha and get in Grealish.",
+        "Id": 289
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Add Kulusevski to my lineup.",
+        "Id": 290
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I want to replace Daka with Wilson.",
+        "Id": 291
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Transfer out Lloris and bring in Ederson.",
+        "Id": 292
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Please add Maddison to my squad.",
+        "Id": 293
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I\u2019d like to swap out Foden for Rashford.",
+        "Id": 294
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Remove Ings and get in Broja.",
+        "Id": 295
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Can I transfer out Kepa for Ramsdale?",
+        "Id": 296
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I want to add Saka to my team.",
+        "Id": 297
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Swap out Cresswell for Shaw.",
+        "Id": 298
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Please transfer out Jota and bring in Mount.",
+        "Id": 299
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Add Neto to my squad.",
+        "Id": 300
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I want to replace Dier with Gabriel.",
+        "Id": 301
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Transfer out Son and get in Bruno.",
+        "Id": 302
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Please add Trossard to my lineup.",
+        "Id": 303
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I\u2019d like to swap out Alisson for De Gea.",
+        "Id": 304
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Remove Richarlison and bring in Antonio.",
+        "Id": 305
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Can I transfer out Laporte for Stones?",
+        "Id": 306
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I want to add Pereira to my team.",
+        "Id": 307
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Swap out Kante for Gallagher.",
+        "Id": 308
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Please transfer out Saka and get in Rashford.",
+        "Id": 309
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Add Wilson to my squad.",
+        "Id": 310
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I want to replace Foden with Grealish.",
+        "Id": 311
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Transfer out Daka and bring in Nunez.",
+        "Id": 312
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Please add Toney to my lineup.",
+        "Id": 313
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I\u2019d like to swap out Ederson for Lloris.",
+        "Id": 314
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Remove Mount and get in Bruno.",
+        "Id": 315
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Can I transfer out Dias for Cancelo?",
+        "Id": 316
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I want to add Almiron to my team.",
+        "Id": 317
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Swap out Jimenez for Isak.",
+        "Id": 318
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Please transfer out Kepa and bring in Ramsdale.",
+        "Id": 319
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Add Bowen to my squad.",
+        "Id": 320
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I want to replace Sterling with Maddison.",
+        "Id": 321
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Transfer out Jesus and get in Watkins.",
+        "Id": 322
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Can I view my current team points?",
+        "Id": 323
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I want to check my team points, please.",
+        "Id": 324
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Show me my team points.",
+        "Id": 325
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "What are my current points?",
+        "Id": 326
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I'd like to see my team points.",
+        "Id": 327
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Please update my team points to 75.",
+        "Id": 328
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Change my team points to 50.",
+        "Id": 329
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Modify my team points to 90.",
+        "Id": 330
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Update my points to 60.",
+        "Id": 331
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Can you show me my points?",
+        "Id": 332
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I need to view my team points.",
+        "Id": 333
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "What are my points right now?",
+        "Id": 334
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I'd like to update my points to 80.",
+        "Id": 335
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Please show my current points.",
+        "Id": 336
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Can you update my team points to 40?",
+        "Id": 337
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I want to check my points.",
+        "Id": 338
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Update my points to 100.",
+        "Id": 339
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Can I see my points total?",
+        "Id": 340
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Please modify my points to 30.",
+        "Id": 341
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I want to view my team points.",
+        "Id": 342
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Show me my points, please.",
+        "Id": 343
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I'd like to update my points to 20.",
+        "Id": 344
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "What are my current team points?",
+        "Id": 345
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Can you change my points to 55?",
+        "Id": 346
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I want to see my points.",
+        "Id": 347
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Update my team points to 85.",
+        "Id": 348
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Please show me my current points.",
+        "Id": 349
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Can I view my points total?",
+        "Id": 350
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I'd like to modify my points to 45.",
+        "Id": 351
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "What are my team points?",
+        "Id": 352
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Please update my points to 70.",
+        "Id": 353
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Can you show my team points?",
+        "Id": 354
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I want to check my current points.",
+        "Id": 355
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Update my team points to 65.",
+        "Id": 356
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Can I see my points?",
+        "Id": 357
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Please modify my points to 10.",
+        "Id": 358
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I want to view my current points.",
+        "Id": 359
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Show me my team points total.",
+        "Id": 360
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I'd like to update my points to 15.",
+        "Id": 361
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "What are my points right now?",
+        "Id": 362
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Can you change my points to 25?",
+        "Id": 363
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I want to see my team points.",
+        "Id": 364
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Update my points to 95.",
+        "Id": 365
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Please show my points.",
+        "Id": 366
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Can I view my team points total?",
+        "Id": 367
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I'd like to modify my points to 35.",
+        "Id": 368
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "What are my current points?",
+        "Id": 369
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Please update my team points to 5.",
+        "Id": 370
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Can you show me my points?",
+        "Id": 371
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I want to check my team points.",
+        "Id": 372
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Update my points to 75.",
+        "Id": 373
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Please modify my points to 80.",
+        "Id": 374
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Can I see my current points?",
+        "Id": 375
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I'd like to view my team points.",
+        "Id": 376
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Can you show me the stats for Kane?",
+        "Id": 377
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "I want to see the performance stats for Salah.",
+        "Id": 378
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "What are the latest stats for Bruno?",
+        "Id": 379
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Please provide the stats for Son.",
+        "Id": 380
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "I'd like to know the stats for Haaland.",
+        "Id": 381
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Show me the player stats for Mount.",
+        "Id": 382
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Can I get the stats for Rashford?",
+        "Id": 383
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "What are the current stats for Grealish?",
+        "Id": 384
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Give me the stats for Almiron.",
+        "Id": 385
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "I'd like to view the stats for Foden.",
+        "Id": 386
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Can you tell me the stats for Jota?",
+        "Id": 387
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "What are the stats for Maddison?",
+        "Id": 388
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Show me the stats for Toney.",
+        "Id": 389
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Please provide the stats for Dier.",
+        "Id": 390
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "I want to see the stats for Chilwell.",
+        "Id": 391
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Can you give me the stats for Ederson?",
+        "Id": 392
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "What are the latest stats for Sterling?",
+        "Id": 393
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "I'd like to know the stats for Nketiah.",
+        "Id": 394
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Show me the player stats for Saka.",
+        "Id": 395
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Can I get the stats for Cucurella?",
+        "Id": 396
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "What are the current stats for Jesus?",
+        "Id": 397
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Please provide the stats for Bowen.",
+        "Id": 398
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "I'd like to view the stats for Kepa.",
+        "Id": 399
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Can you tell me the stats for Watkins?",
+        "Id": 400
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "What are the stats for Pulisic?",
+        "Id": 401
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Show me the stats for Mings.",
+        "Id": 402
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Please provide the stats for Lloris.",
+        "Id": 403
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "I want to see the performance stats for Daka.",
+        "Id": 404
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Can you show me the stats for Pereira?",
+        "Id": 405
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "What are the latest stats for Coady?",
+        "Id": 406
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "I'd like to know the stats for Raphinha.",
+        "Id": 407
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Show me the player stats for Neto.",
+        "Id": 408
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Can I get the stats for Ake?",
+        "Id": 409
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "What are the current stats for Kante?",
+        "Id": 410
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Please provide the stats for Jorginho.",
+        "Id": 411
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "I want to see the stats for Zaha.",
+        "Id": 412
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Can you tell me the stats for Isak?",
+        "Id": 413
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "What are the stats for Adams?",
+        "Id": 414
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Show me the stats for Soucek.",
+        "Id": 415
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Please provide the stats for Benrahma.",
+        "Id": 416
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "I'd like to view the stats for Damsgaard.",
+        "Id": 417
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Can you give me the stats for Trossard?",
+        "Id": 418
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "What are the latest stats for Lavia?",
+        "Id": 419
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "I'd like to know the stats for Onana.",
+        "Id": 420
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Show me the player stats for Raya.",
+        "Id": 421
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Can I get the stats for Kiwior?",
+        "Id": 422
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "What are the current stats for Saliba?",
+        "Id": 423
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Please provide the stats for Gabriel.",
+        "Id": 424
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "I want to see the performance stats for McGinn.",
+        "Id": 425
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Can you show me the stats for Billing?",
+        "Id": 426
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "What are the latest stats for Solanke?",
+        "Id": 427
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "I'd like to know the stats for Mitrovic.",
+        "Id": 428
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Show me the stats for Wilson.",
+        "Id": 429
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Can I get the stats for Eze?",
+        "Id": 430
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "What are the current stats for Gallagher?",
+        "Id": 431
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Please provide the stats for Olise.",
+        "Id": 432
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "What inspired the creation of Ball IQ?",
+        "Id": 433
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "How did Ball IQ come up with its name?",
+        "Id": 434
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "Can you tell me more about Ball IQ's mission?",
+        "Id": 435
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "What makes Ball IQ different from other platforms?",
+        "Id": 436
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "How long has Ball IQ been in operation?",
+        "Id": 437
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "Who are the founders of Ball IQ?",
+        "Id": 438
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "What features does Ball IQ offer to users?",
+        "Id": 439
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "Is Ball IQ planning to expand its services?",
+        "Id": 440
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "How does Ball IQ gather its football data?",
+        "Id": 441
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "What are the future plans for Ball IQ?",
+        "Id": 442
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "Can you share any success stories from Ball IQ?",
+        "Id": 443
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "How does Ball IQ ensure user satisfaction?",
+        "Id": 444
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "What kind of feedback has Ball IQ received?",
+        "Id": 445
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "Are there any partnerships that Ball IQ is proud of?",
+        "Id": 446
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "How does Ball IQ engage with its community?",
+        "Id": 447
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "What are the core values of Ball IQ?",
+        "Id": 448
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "Does Ball IQ have a mobile app?",
+        "Id": 449
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "How can I contact Ball IQ for support?",
+        "Id": 450
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "What are the most popular features of Ball IQ?",
+        "Id": 451
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "How does Ball IQ stay updated with football trends?",
+        "Id": 452
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "What is the user base like for Ball IQ?",
+        "Id": 453
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "Does Ball IQ offer any educational resources?",
+        "Id": 454
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "How does Ball IQ handle user privacy?",
+        "Id": 455
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "What are the biggest challenges Ball IQ has faced?",
+        "Id": 456
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "How can I stay updated on Ball IQ's news?",
+        "Id": 457
+    },
+    {
+        "Intention": "None",
+        "Message": "What's your favorite movie of all time?",
+        "Id": 458
+    },
+    {
+        "Intention": "None",
+        "Message": "I love the weather today, it's so nice!",
+        "Id": 459
+    },
+    {
+        "Intention": "None",
+        "Message": "Have you read any good books lately?",
+        "Id": 460
+    },
+    {
+        "Intention": "None",
+        "Message": "What do you think about the latest tech trends?",
+        "Id": 461
+    },
+    {
+        "Intention": "None",
+        "Message": "I tried a new recipe yesterday, it was delicious!",
+        "Id": 462
+    },
+    {
+        "Intention": "None",
+        "Message": "Do you prefer coffee or tea in the morning?",
+        "Id": 463
+    },
+    {
+        "Intention": "None",
+        "Message": "What's your go-to comfort food?",
+        "Id": 464
+    },
+    {
+        "Intention": "None",
+        "Message": "I can't believe how fast this year is going!",
+        "Id": 465
+    },
+    {
+        "Intention": "None",
+        "Message": "Do you have any travel plans for the summer?",
+        "Id": 466
+    },
+    {
+        "Intention": "None",
+        "Message": "What's your favorite way to relax after a long day?",
+        "Id": 467
+    },
+    {
+        "Intention": "None",
+        "Message": "Have you seen any good shows recently?",
+        "Id": 468
+    },
+    {
+        "Intention": "None",
+        "Message": "I really enjoy listening to music while I work.",
+        "Id": 469
+    },
+    {
+        "Intention": "None",
+        "Message": "What hobbies do you enjoy in your free time?",
+        "Id": 470
+    },
+    {
+        "Intention": "None",
+        "Message": "I just got a new plant, and I'm excited to take care of it!",
+        "Id": 471
+    },
+    {
+        "Intention": "None",
+        "Message": "Do you have a favorite season of the year?",
+        "Id": 472
+    },
+    {
+        "Intention": "None",
+        "Message": "I love exploring new places in my city.",
+        "Id": 473
+    },
+    {
+        "Intention": "None",
+        "Message": "What's the best concert you've ever attended?",
+        "Id": 474
+    },
+    {
+        "Intention": "None",
+        "Message": "I recently started a new workout routine, and it's going well!",
+        "Id": 475
+    },
+    {
+        "Intention": "None",
+        "Message": "What kind of pets do you have, if any?",
+        "Id": 476
+    },
+    {
+        "Intention": "None",
+        "Message": "I enjoy watching documentaries; they are so informative.",
+        "Id": 477
+    },
+    {
+        "Intention": "None",
+        "Message": "What's your favorite childhood memory?",
+        "Id": 478
+    },
+    {
+        "Intention": "None",
+        "Message": "I find it fascinating how different cultures celebrate holidays.",
+        "Id": 479
+    },
+    {
+        "Intention": "None",
+        "Message": "Do you prefer the beach or the mountains for vacation?",
+        "Id": 480
+    },
+    {
+        "Intention": "None",
+        "Message": "I love trying out new restaurants in town.",
+        "Id": 481
+    },
+    {
+        "Intention": "None",
+        "Message": "What's your favorite way to spend a weekend?",
+        "Id": 482
+    },
+    {
+        "Intention": "None",
+        "Message": "I enjoy stargazing; it's so peaceful at night.",
+        "Id": 483
+    }
+]

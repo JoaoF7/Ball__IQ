@@ -1,0 +1,109 @@
+
+/* Updated CSS for BallIQ App */
+
+/* Apply a gradient background to the entire app */
+body {
+  background: linear-gradient(to right, #2c3e50, #4ca1af);
+  font-family: 'Arial', sans-serif;
+  color: white; /* Default text color */
+}
+
+/* Style inputs with type="text", "email", and textarea */
+input[type=text], input[type=email], textarea {
+  width: 100%;
+  padding: 15px;
+  border: 1px solid #4ca1af;
+  border-radius: 5px;
+  box-shadow: none; /* Removed shadow */
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+textarea {
+  resize: vertical; /* Allow resizing vertically only */
+}
+
+/* Remove hover/focus styles */
+input[type="text"]:hover, input[type="email"]:hover, textarea:hover,
+input[type="text"]:focus, input[type="email"]:focus, textarea:focus {
+  border-color: #ccc; /* Neutral border on hover/focus */
+  box-shadow: none; /* Removed shadow */
+  outline: none; /* Removed outline */
+}
+
+/* Style submit buttons */
+button[type=submit] {
+  background: linear-gradient(to right, #4ca1af, #2c3e50);
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 14px 20px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: transform 0.3s ease, background 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Add hover effects to buttons */
+button[type=submit]:hover {
+  background: linear-gradient(to right, #2c3e50, #4ca1af);
+  transform: scale(1.05);
+}
+
+/* Headers and titles */
+h1, h2, h3, h4, h5, h6 {
+  color: #f7f7f7;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+/* Separator line styles */
+hr {
+  border: 0;
+  height: 1px;
+  background: #4ca1af;
+  margin: 30px 0;
+}
+
+/* Hide Streamlit Branding */
+#MainMenu, footer, header {
+  visibility: hidden;
+}
+
+/* Style links */
+a {
+  color: #4ca1af;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #2c3e50;
+}
+
+/* Enhance the card-like container for sections */
+.stContainer {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Form container styling */
+form {
+  background: rgba(255, 255, 255, 0.15);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* Fine-tune column spacing */
+.stColumns {
+  gap: 20px;
+}
+
+/* Adjust button alignment */
+button {
+  display: inline-block;
+}

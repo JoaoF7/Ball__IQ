@@ -1,0 +1,152 @@
+[
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "What are the upcoming fixtures for week 5 for the player Palmer?",
+        "Id": 1
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Who will Mohamed Salah face next?",
+        "Id": 2
+    },
+    {
+        "Intention": "check_upcoming_fixtures",
+        "Message": "Who will Saliba play against in week 24",
+        "Id": 3
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "Tell me the best players to use when playing in 433 formation.",
+        "Id": 4
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "Optimize my team, the tactic is 1-1-1.",
+        "Id": 5
+    },
+    {
+        "Intention": "optimize_lineup",
+        "Message": "Can you make the best team using 2 midfielders, 1 forward, 3 defenders.",
+        "Id": 6
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Please add Fabio Vieira to my starting eleven.",
+        "Id": 7
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Make Bruno Fernandes a starter.",
+        "Id": 8
+    },
+    {
+        "Intention": "putting_players_in_starting11",
+        "Message": "Bring in Mo Salah to the starting team",
+        "Id": 9
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "Can you tell me what an assist is",
+        "Id": 10
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "How many points does a midfielder win for scoring a goal",
+        "Id": 11
+    },
+    {
+        "Intention": "know_information_about_stats",
+        "Message": "What does a player getting an yellow card do to his points",
+        "Id": 12
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "I have a budget of 100 and I want to exclude Bruno Fernandes and Saka. I need a forward.",
+        "Id": 13
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "With only $70 what are the best midfielders I can get",
+        "Id": 14
+    },
+    {
+        "Intention": "recommend_players",
+        "Message": "Get me the best player for 15\u20ac",
+        "Id": 15
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "I want to bring in Bruno Fernandes into my team and take out Fabio Vieira",
+        "Id": 16
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Please sell Bruno Fernandes and buy Salah",
+        "Id": 17
+    },
+    {
+        "Intention": "transfer_players",
+        "Message": "Please buy Trent Alexander-Arnold",
+        "Id": 18
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "What are my current points?",
+        "Id": 19
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "Update my points to 100.",
+        "Id": 20
+    },
+    {
+        "Intention": "view_or_update_team_points",
+        "Message": "I want to increase my team points to 200",
+        "Id": 21
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Can you tell me about the player Ruben Dias?",
+        "Id": 22
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Give me all the stats about Carlos Miguel",
+        "Id": 23
+    },
+    {
+        "Intention": "view_players_stats",
+        "Message": "Tell me how Ndidi has been doing this year",
+        "Id": 24
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "What can you tell me about this company?",
+        "Id": 25
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "What names are associated with the foundation of Ball IQ",
+        "Id": 26
+    },
+    {
+        "Intention": "chit_chat_about_company",
+        "Message": "Can you tell me more about the company",
+        "Id": 27
+    },
+    {
+        "Intention": "None",
+        "Message": "How is the weather today?",
+        "Id": 28
+    },
+    {
+        "Intention": "None",
+        "Message": "Can I order fried chicken",
+        "Id": 29
+    },
+    {
+        "Intention": "None",
+        "Message": "Today I'm felling hopeful",
+        "Id": 30
+    }
+]

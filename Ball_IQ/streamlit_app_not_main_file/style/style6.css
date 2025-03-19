@@ -1,0 +1,28 @@
+/* Style the left column */
+div[data-testid="stBlock"] > div:first-child {
+  background-color: purple;
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+/* Style the right column */
+div[data-testid="stBlock"] > div:nth-child(2) {
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+/* Reduce size of Contact Us form fields */
+input[type=message], input[type=email], input[type=text], textarea {
+  font-size: 12px;
+  width: 90%; /* Slightly reduced width */
+  padding: 10px; /* Reduced padding */
+}
+
+/* Center submit button */
+button[type=submit] {
+  width: 90%;
+}
+
